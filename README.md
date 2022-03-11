@@ -1,6 +1,6 @@
 Hola.
 soy, homelo chino,
-soy como holemo, pelo homelo chino
+soy como homelo, pelo homelo chino
 
 <!---
 CamiloSzA/CamiloSzA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
